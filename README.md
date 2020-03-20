@@ -11,6 +11,8 @@ Open the GPT-2 folder and load the .ipyb. Follow the instructions on the file, u
 ## Step 3: Multiplabel Classifier
 Open the mypersonality_final folder and open the multi_label_predicting file. Scroll to the bottom where it says input prediction and enter the caption you would like to predict. Make sure the line input_prediction() is not commented out, then navigate to where ever the multi_label_predicting is on your system and run the file in the cmd.
 
-Image captioning tutorial from (here)[]
-GPT-2 tutorial from (here)[]
-Multilabel Classifier from (here)[]
+Image captioning tutorial from (here)[https://www.tensorflow.org/tutorials/text/image_captioning]
+
+GPT-2 tutorial from (here)[https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce##scrollTo=H7LoMj4GA4n_]
+
+Multilabel Classifier from (here)[??]
