@@ -1,5 +1,5 @@
 # 202-Final-Project
-## Lee Taber, Kevin Weatherwazx, Alex Mayben, Sean Fernandes 
+## Lee Taber, Kevin Weatherwax, Alex Mayben, Sean Fernandes 
 
 ## Step 1: Image Captioning
 
